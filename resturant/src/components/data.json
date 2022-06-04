@@ -1,0 +1,23 @@
+[
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Khana khajana","PaymentMethod":"c","vote":100,"reviews":401,"cost":700,"star":5,"categories":["Indian,","Continental"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Amenia","PaymentMethod":"a","vote":100,"reviews":401,"cost":700,"categories":["Indian,","Lebanese"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Yellow chilli","PaymentMethod":"c","vote":100,"reviews":401,"cost":700,"star":2,"categories":["Indian,","Mexican"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Green chilli","PaymentMethod":"a","vote":100,"reviews":401,"cost":700,"star":5,"categories":["Indian,","Mediteranien"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Apki psand","PaymentMethod":"a","vote":251,"reviews":718,"cost":650,"star":2,"categories":["Indian,","Continental"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"ashirbad","PaymentMethod":"a","vote":333,"reviews":368,"cost":800,"star":4,"categories":["Indian,","Mexican"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Continatal","PaymentMethod":"a","vote":578,"reviews":254,"cost":350,"star":5,"categories":["Indian,","Mediteranien"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Four vedas","PaymentMethod":"c","vote":605,"reviews":961,"cost":870,"star":5,"categories":["Indian,","Mexican"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Skky","PaymentMethod":"b","vote":100,"reviews":401,"cost":700,"categories":["Indian,","Continental"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Bar code","PaymentMethod":"c","vote":780,"reviews":850,"cost":900,"star":4,"categories":["Indian,","Lebanese"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Planet mall","PaymentMethod":"a","vote":450,"reviews":700,"cost":1000,"star":3.8,"categories":["Indian,","Mexican"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Lovely hotle","PaymentMethod":"a","vote":900,"reviews":381,"cost":700,"star":2,"categories":["Indian,","Mediteranien"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"harshit","PaymentMethod":"b","vote":420,"reviews":927,"cost":2000,"star":1,"categories":["Indian,","Continental"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"sartaj","PaymentMethod":"b","vote":100,"reviews":387,"cost":900,"star":1,"categories":["Indian,","Mediteranien"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"Grand","PaymentMethod":"c","vote":624,"reviews":478,"cost":700,"star":1,"categories":["Indian,","Continental"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"jassi the dhaba","PaymentMethod":"a","vote":721,"reviews":544,"cost":700,"star":5,"categories":["Indian,","Lebanese"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"bhoj","PaymentMethod":"b","vote":301,"reviews":987,"cost":750,"star":4,"categories":["Indian,","Mediteranien"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"food hub","PaymentMethod":"c","vote":555,"reviews":628,"cost":600,"star":3,"categories":["South Indian,","Lebanese"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"lassi ghar","PaymentMethod":"a","vote":860,"reviews":874,"cost":400,"star":3,"categories":["Indian,","Continental"]},
+    {"image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg","name":"dhaba by ambar","PaymentMethod":"b","vote":630,"reviews":171,"cost":550,"star":2,"categories":["Indian,","Lebanese"]}
+   
+]
